@@ -1,6 +1,6 @@
 print('=============  Teoria da Igualdade dos Conjutos   =============')
 print('----------------------------------------------------------')
-print('Dizemos que um conjunto de A é Igual B, Escrevendo A = B se os elementos são inguais ')
+print('Dizemos que um conjunto de A é Igual B, Escrevendo A = B se os elementos são iguais ')
 print('Sendo B = {1,2,3,4}')
 print('----------------------------------------------------------')
 n1a = int(input('Informe o 1ª  numero  para o A'))
